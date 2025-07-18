@@ -1,17 +1,17 @@
-Component,Quantity,Estimated Price (USD),Link
-Arduino Nano,1,3.20,https://store.arduino.cc/products/arduino-nano
-TDS Sensor Kit,1,5.50,https://www.dfrobot.com/product-1662.html
-PH Sensor Kit,1,10.99,https://www.dfrobot.com/product-1123.html
-Turbidity Sensor,1,3.99,https://www.dfrobot.com/product-1394.html
-PEF High Voltage Module,1,6.00,https://www.aliexpress.com/item/1005001673838369.html
-12V Water Pump,1,4.50,https://www.amazon.com/dp/B07T9VP4TG
-OLED Display (0.96"),1,2.20,https://www.amazon.com/dp/B01N3B8JMN
-Relay Module (1-Channel),1,1.00,https://www.amazon.com/dp/B00LW15A4W
-Water Level Sensor,1,1.50,https://www.dfrobot.com/product-101.html
-DS18B20 Temperature Sensor,1,1.00,https://www.amazon.com/dp/B008HODWBU
-Real Time Clock Module (DS3231),1,2.00,https://www.amazon.com/dp/B07F7WDZGT
-LCD 16x2 with I2C,1,3.00,https://www.amazon.com/dp/B012A1PNVI
-12V Power Supply Adapter,1,5.50,https://www.amazon.com/dp/B00JZ5K6ZG
-Breadboard & Wires,1 set,3.00,https://www.amazon.com/dp/B01EV70C78
-PVC Cylinder (for model),1,5.00,Custom 3D design
-Total Estimated Cost,,$64.38,
+Item,Description,Price (USD),Link
+HAT for Raspberry Pi,,19.22,https://www.ram-e-shop.com/ar/shop/rpi-phat-io-exp-io-expansion-hat-for-raspberry-pi-5-4b-3b-8267
+Raspberry Pi 5-4GB,More I/O for multiple sensors and valves,109.27,https://www.ram-e-shop.com/ar/shop/rpi5-board-4gb-raspberry-pi-5-4gb-8882
+Raspberry Pi 5 Stripe Metal Aluminum Case,,7.59,https://www.ram-e-shop.com/ar/shop/rpi5-box-aluminum-enclosure-for-raspberry-pi-5-stripe-metal-aluminum-case-9202
+MQ-135 Air Quality Sensors (2 pcs),Measures NOx, SOx, VOC, CO₂,24,https://www.amazon.com/dp/B07FQT8ZBZ
+DS18B20 Temperature Sensor,Monitors temperature for reaction consistency,10,https://www.amazon.com/dp/B01DKC2GQC
+2 × 12V Axial Fans (large),Ensures consistent airflow through chambers,28,https://www.amazon.com/dp/B07PZP8NDV
+Servo-Controlled Flow-Valve (12V),Automates opening/closing of the coffee-filter pipes,25,https://www.amazon.com/dp/B07H4ZQ2QL
+Active Carbon + Coffee Media & Chemicals,Coffee grounds, NH₃ solution, ZnCl₂ for air scrubbing,20,
+Solar-Powered 12V Adapter + LiFePO₄ Battery,Eco-friendly and stable power for outdoor use,45,
+Waterproof Enclosure & Mounting Hardware,Protects electronics from weather exposure,20,
+LCD Display Module (1602 I²C),Shows real-time sensor readings,12,
+Breadboard & Wire Kit,Organized and reliable connections,12,
+Jumper Wires + Cable Glands,Neat system build,10,
+Power Switch, Fuses & Connectors Kit,Safe and robust power management,10,
+,,,
+Total,,329,
