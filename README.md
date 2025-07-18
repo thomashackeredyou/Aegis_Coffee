@@ -21,14 +21,10 @@ Air pollution is a serious health hazard in many cities, and traditional filtrat
    
 ## Images  
 
-- Screenshot of Full 3D Model  
-  [Insert image here]
+![IMG-20250715-WA0069](https://github.com/user-attachments/assets/1be72757-d232-4119-b896-880591b13055)
+<img width="411" height="343" alt="Aegis_SC" src="https://github.com/user-attachments/assets/3ef57fe2-f72f-4f97-8aaf-5066a96c66ec" />
 
-- Screenshot of PCB Layout  
-  [Insert image here]
-
-- Photo of Working Physical Model  
-  [Insert image here]
+<img width="496" height="330" alt="Aegis_SC (1)" src="https://github.com/user-attachments/assets/887868a3-1f37-4b50-a7ab-5e8195394642" />
 
 ## Bill of Materials (BOM)
 
