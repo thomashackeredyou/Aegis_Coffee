@@ -59,7 +59,7 @@ created_at: "18/07/2025"
 
 ---
 
-## 📷 Pictures Documentating
+##  Pictures Documentating
 
 ![IMG-20250715-WA0069](https://github.com/user-attachments/assets/eaa4ae09-3925-4c99-942b-1ccf35015177)
 <img width="496" height="330" alt="Aegis_SC (1)" src="https://github.com/user-attachments/assets/ef9eadab-762e-4900-b1c3-6e378450600c" />
