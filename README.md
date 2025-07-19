@@ -33,10 +33,10 @@ Air pollution is a serious health hazard in many cities, and traditional filtrat
 | HAT for Raspberry Pi                         | 1              | $19.22      | [Link](https://www.ram-e-shop.com/ar/shop/rpi-phat-io-exp-io-expansion-hat-for-raspberry-pi-5-4b-3b-8267) |
 | Raspberry Pi 5 - 4GB                         | 1              | $109.27     | [Link](https://www.ram-e-shop.com/ar/shop/rpi5-board-4gb-raspberry-pi-5-4gb-8882) |
 | Raspberry Pi 5 Aluminum Case                 | 1              | $7.59       | [Link](https://www.ram-e-shop.com/ar/shop/rpi5-box-aluminum-enclosure-for-raspberry-pi-5-stripe-metal-aluminum-case-9202) |
-| MQ-135 Air Quality Sensors                   | 2 pcs          | $24.00      | [Link](https://www.amazon.com/dp/B07FQT8ZBZ) |
+| MQ-135 Air Quality Sensors                   | 5 pcs          | $9.00      | [Link](https://www.ram-e-shop.com/ar/shop/kit-mq135-mq-135-sensor-air-quality-sensor-hazardous-gas-detection-module-7312) |
 | DS18B20 Temperature Sensor                   | 1              | $10.00      | [Link](https://www.amazon.com/dp/B01DKC2GQC) |
 | 12 V Axial Fans (large)                      | 2              | $28.00      | [Link](https://www.amazon.com/dp/B07PZP8NDV) |
-| 12 V Servo-Controlled Flow-Valve             | 1              | $25.00      | [Link](https://www.amazon.com/dp/B07H4ZQ2QL) |
+| 12 V Servo-Controlled Flow-Valve             | 1              | $50.00      | [Link](https://www.amazon.eg/-/en/DIY-Kit-12Vdc-Solenoid-Valve-Copper/dp/B0DDPQ5FYF/ref=sr_1_5?dib=eyJ2IjoiMSJ9.k2DY8_lIodQlFZoHAJa7pB7mmqA67enayRP9JRDDFLCcL-bU6KmMeKhwenPkf09jhzKMiOgaZlK_3SbyBp5JcSLyCQm9URZ91z4ql7Se-IITZ6mx4kt192Yclg5P0H06NUWLBcQ-Qn2WhxpBSDSkyTh1XFjfriGjrIX0j7iiQIB1SLaPynUTjk2LsqAbTG_0.O0u8sl_NUSuPA8XrrkYsalHNxCXy2FO2rFZmTas-pOY&dib_tag=se&keywords=solenoid+valve&qid=1752947838&refinements=p_36%3A60000-&rnid=22080723031&sr=8-5) |
 | Coffee Grounds + NH₃ + ZnCl₂ (Chemicals)     | —              | $20.00      | — |
 | Solar Adapter + LiFePO₄ Battery              | 1              | $45.00      | — |
 | Waterproof Enclosure + Mounting Hardware     | —              | $20.00      | — |
@@ -45,5 +45,6 @@ Air pollution is a serious health hazard in many cities, and traditional filtrat
 | Jumper Wires + Cable Glands                  | —              | $10.00      | — |
 | Power Switch + Fuses + Connectors Kit        | —              | $10.00      | — |
 
-**Total Cost: $329**
+**Total Cost: $362**
+**Expected to be paid: $300**
 
