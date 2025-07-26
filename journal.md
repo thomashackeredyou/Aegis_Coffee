@@ -2,7 +2,7 @@
 title: "Aegis Coffee"
 author: "Abdelrahman El Nabawy Mohamed El nabawy Essa"
 description: "Four-chamber air purification unit using coffee grounds and real-time sensors to combat urban air pollution."
-created_at: "18/07/2025"
+created_at: "26/06/2025"
 ---
 
 ## Total Time Spent on the Project: **56 hours**
