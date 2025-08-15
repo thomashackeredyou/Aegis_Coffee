@@ -30,21 +30,23 @@ Air pollution is a serious health hazard in many cities, and traditional filtrat
 
 | Component                                     | Quantity       | Price (USD) | Link |
 |----------------------------------------------|----------------|-------------|------|
-| HAT for Raspberry Pi                         | 1              | $19.22      | [Link](https://www.ram-e-shop.com/ar/shop/rpi-phat-io-exp-io-expansion-hat-for-raspberry-pi-5-4b-3b-8267) |
-| Raspberry Pi 5 - 4GB                         | 1              | $109.27     | [Link](https://www.ram-e-shop.com/ar/shop/rpi5-board-4gb-raspberry-pi-5-4gb-8882) |
-| Raspberry Pi 5 Aluminum Case                 | 1              | $7.59       | [Link](https://www.ram-e-shop.com/ar/shop/rpi5-box-aluminum-enclosure-for-raspberry-pi-5-stripe-metal-aluminum-case-9202) |
-| MQ-135 Air Quality Sensors                   | 5 pcs          | $9.00      | [Link](https://www.ram-e-shop.com/ar/shop/kit-mq135-mq-135-sensor-air-quality-sensor-hazardous-gas-detection-module-7312) |
-| DS18B20 Temperature Sensor                   | 1              | $10.00      | [Link](https://www.amazon.com/dp/B01DKC2GQC) |
-| 12 V Axial Fans (large)                      | 2              | $28.00      | [Link](https://www.amazon.com/dp/B07PZP8NDV) |
-| 12 V Servo-Controlled Flow-Valve             | 1              | $50.00      | [Link](https://www.amazon.eg/-/en/DIY-Kit-12Vdc-Solenoid-Valve-Copper/dp/B0DDPQ5FYF/ref=sr_1_5?dib=eyJ2IjoiMSJ9.k2DY8_lIodQlFZoHAJa7pB7mmqA67enayRP9JRDDFLCcL-bU6KmMeKhwenPkf09jhzKMiOgaZlK_3SbyBp5JcSLyCQm9URZ91z4ql7Se-IITZ6mx4kt192Yclg5P0H06NUWLBcQ-Qn2WhxpBSDSkyTh1XFjfriGjrIX0j7iiQIB1SLaPynUTjk2LsqAbTG_0.O0u8sl_NUSuPA8XrrkYsalHNxCXy2FO2rFZmTas-pOY&dib_tag=se&keywords=solenoid+valve&qid=1752947838&refinements=p_36%3A60000-&rnid=22080723031&sr=8-5) |
-| Coffee Grounds + NH₃ + ZnCl₂ (Chemicals)     | —              | $20.00      | — |
-| Solar Adapter + LiFePO₄ Battery              | 1              | $45.00      | — |
-| Waterproof Enclosure + Mounting Hardware     | —              | $20.00      | — |
-| LCD Display Module (1602 I²C)                | 1              | $12.00      | [Link](https://www.amazon.com/dp/B012A1PNVI) |
-| Breadboard & Wire Kit                        | 1 set          | $12.00      | [Link](https://www.amazon.com/dp/B01EV70C78) |
-| Jumper Wires + Cable Glands                  | —              | $10.00      | — |
-| Power Switch + Fuses + Connectors Kit        | —              | $10.00      | — |
+| Arduino Mega 2560                         | 1              | $75.00     | [Link]([https://www.ram-e-shop.com/ar/shop/rpi-phat-io-exp-io-expansion-hat-for-raspberry-pi-5-4b-3b-8267](https://www.amazon.eg/-/en/DIY-Kit-Arduino-Mega-Microcontroller-Rev3/dp/B0D7WG8BZF)) |
+| Custom I/O Expansion Shield for Arduino Mega                      | 1              | $21.00     | [Link]([https://www.ram-e-shop.com/ar/shop/rpi5-board-4gb-raspberry-pi-5-4gb-8882](https://www.ram-e-shop.com/ar/shop/rpi-phat-io-exp-io-expansion-hat-for-raspberry-pi-5-4b-3b-8267)) |
+| MQ-135 Air Quality Sensors                 | 5              | $9.50      | [Link](https://www.ram-e-shop.com/ar/shop/kit-mq135-mq-135-sensor-air-quality-sensor-hazardous-gas-detection-module-7312) |
+| DS18B20 Temperature Sensor	                   | 1          | $10.40	      | [Link](https://www.amazon.eg/-/en/DHT11-Digital-Temperature-Humidity-Sensor/dp/B0FD2JXFBF/) |
+| 12V Axial Fans                  | 2              | $28.00	     | [Link](https://www.amazon.eg/-/en/High-Efficiency-92mm-San-Ace-9G0912P2G041/dp/B0FH273YG9/) |
+| 12V Servo-Controlled Flow Valve                     | 1             | $30.00	      | [Link](https://www.amazon.eg/-/en/DIY-Kit-12Vdc-Solenoid-Valve-Copper/dp/B0DDPQ5FYF) |
+| NH₃	            | 500ml              | $11.75	      | [Link](https://www.flinnsci.com/ammonium-hydroxide-solution-3-m-500-ml/a0193/) |
+| ZnCl₂	    | 500mg              | $22.90	      | [link](https://www.scientific-labsupplies.com/product/zinc-chloride-anhydrous-zncl2-500-grams/) |
+| Solar Adapter	             | 1              | $11.00      | [link](https://ar.aliexpress.com/item/1005009299578068.html?) |
+| LiFePO₄ Battery	     | 2              | $24.00      | [link](https://ar.aliexpress.com/item/1005009150241001.html?) |
+| Waterproof Enclosure & Mounting Hardware               | 2              | $10.00	     | [Link](https://ar.aliexpress.com/item/1005007333668841.html?) |
+| LCD Display Module (1602 I²C)	                      | 1           | $5.00      | [Link](https://ar.aliexpress.com/item/1005006493977614.html?) |
+| Breadboard & Wire Kit	                 | 1              | $22.00      | [Link](https://ar.aliexpress.com/item/1005009234815336.html?) |
+| PJumper Wires + Cable Glands	      | 1              | $6.00      | [Link](https://www.amazon.eg/-/en/Breadboard-Jumper-Preformed-Assorted-Tweezers/dp/B09SW8CSF6/) |
+| Power Switch / Fuses & Connectors Kit       | 1              | $6.00      | [Link](https://www.amazon.eg/-/en/Plug-Fuses-15A-100-pieces/dp/B0968X7RF5/) |
+| Miscellaneous Mounts Filters & Seals	       | 1              | $7.51     | [Link](https://ar.aliexpress.com/item/1005007131594877.html?) |
 
-**Total Cost: $362**
-**Expected to be paid: $300**
 
+
+**Total Cost: $300.06**
