@@ -1,18 +1,19 @@
 Item,Description,Price (USD),Link
-HAT for Raspberry Pi,,19.22,https://www.ram-e-shop.com/ar/shop/rpi-phat-io-exp-io-expansion-hat-for-raspberry-pi-5-4b-3b-8267
-Raspberry Pi 5 - 4GB,More I/O for multiple sensors and valves,109.27,https://www.ram-e-shop.com/ar/shop/rpi5-board-4gb-raspberry-pi-5-4gb-8882
-Raspberry Pi 5 Aluminum Case,,7.59,https://www.ram-e-shop.com/ar/shop/rpi5-box-aluminum-enclosure-for-raspberry-pi-5-stripe-metal-aluminum-case-9202
-MQ-135 Air Quality Sensors (5 pcs),Measures NOx- SOx- VOC- CO₂,9.00,https://www.ram-e-shop.com/ar/shop/kit-mq135-mq-135-sensor-air-quality-sensor-hazardous-gas-detection-module-7312
-DS18B20 Temperature Sensor,Monitors temperature for reaction consistency,10.00,https://www.amazon.com/dp/B01DKC2GQC
-2 × 12V Axial Fans (large),Ensures consistent airflow through chambers,28.00,https://www.amazon.com/dp/B07PZP8NDV
-12V Servo-Controlled Flow-Valve,Automates opening/closing of the coffee-filter pipes,50.00,https://www.amazon.eg/-/en/DIY-Kit-12Vdc-Solenoid-Valve-Copper/dp/B0DDPQ5FYF
-Coffee Grounds + NH₃ + ZnCl₂,Coffee media and air scrubbing chemicals,20.00,
-Solar Adapter + LiFePO₄ Battery,Eco-friendly and stable power for outdoor use,45.00,
-Waterproof Enclosure & Mounting Hardware,Protects electronics from weather exposure,20.00,
-LCD Display Module (1602 I²C),Shows real-time sensor readings,12.00,https://www.amazon.com/dp/B012A1PNVI
-Breadboard & Wire Kit,Organized and reliable connections,12.00,https://www.amazon.com/dp/B01EV70C78
-Jumper Wires + Cable Glands,Neat system build,10.00,
-Power Switch/ Fuses & Connectors Kit,Safe and robust power management,10.00,
-,,,
+Arduino Mega 2560,Main controller with plenty of I/O for multiple sensors- fans- and servo valves,75,ttps://www.amazon.eg/-/en/DIY-Kit-Arduino-Mega-Microcontroller-Rev3/dp/B0D7WG8BZF
+Custom I/O Expansion Shield for Arduino Mega,Adds more power and signal terminals for managing multiple active components,21,https://www.ram-e-shop.com/ar/shop/rpi-phat-io-exp-io-expansion-hat-for-raspberry-pi-5-4b-3b-8267
+MQ-135 Air Quality Sensors (5 pcs),Detects NOx- SOx- VOCs- and CO₂ levels in the air before and after filtration,9.50,https://www.ram-e-shop.com/ar/shop/kit-mq135-mq-135-sensor-air-quality-sensor-hazardous-gas-detection-module-7312
+DS18B20 Temperature Sensor,Ensures reaction chambers stay within effective temperature range,10.40,https://www.amazon.eg/-/en/DHT11-Digital-Temperature-Humidity-Sensor/dp/B0FD2JXFBF/
+2 × 12V Axial Fans (large),Maintains steady airflow through all four filtration chambers,28.00,https://www.amazon.eg/-/en/High-Efficiency-92mm-San-Ace-9G0912P2G041/dp/B0FH273YG9/
+12V Servo-Controlled Flow Valve,Automates switching between coffee filtration and bypass airflow,30.00,https://www.amazon.eg/-/en/DIY-Kit-12Vdc-Solenoid-Valve-Copper/dp/B0DDPQ5FYF
+NH₃ , neutralizing compound,11.75,https://www.flinnsci.com/ammonium-hydroxide-solution-3-m-500-ml/a0193/
+ZnCl₂,Coffee media for VOC adsorption ,22.90,https://www.scientific-labsupplies.com/product/zinc-chloride-anhydrous-zncl2-500-grams/
+Solar Adapter ,Clean stable power charger for eco-friendly operation,11.00,https://ar.aliexpress.com/item/1005009299578068.html?
+LiFePO₄ Battery,Clean stable power source for eco-friendly operation,12.00,https://ar.aliexpress.com/item/1005009150241001.html?
+2 × Waterproof Enclosure & Mounting Hardware,Protects electronics and wiring if placed outdoors,10.00,https://ar.aliexpress.com/item/1005007333668841.html?
+LCD Display Module (1602 I²C),Displays live sensor data in an easy-to-read format,5.00,https://ar.aliexpress.com/item/1005006493977614.html?
+Breadboard & Wire Kit,For prototyping and keeping wiring organized,22.00,https://ar.aliexpress.com/item/1005009234815336.html?
+Jumper Wires + Cable Glands,Neat secure wiring and external sensor routing,6.00,https://www.amazon.eg/-/en/Breadboard-Jumper-Preformed-Assorted-Tweezers/dp/B09SW8CSF6/
+Power Switch / Fuses & Connectors Kit,Safe power management and easy maintenance,6.00,https://www.amazon.eg/-/en/Plug-Fuses-15A-100-pieces/dp/B0968X7RF5/
+Miscellaneous Mounts Filters & Seals,Gaskets brackets and filter meshes for airtight assembly,7.51,https://ar.aliexpress.com/item/1005007131594877.html?
 Total,,362,
-expected payment,,300,
+Expected payment,,300,
