@@ -22,7 +22,7 @@ The idea quickly took shape as a **four-chamber ventilation unit**:
 
 I spent the morning sketching airflow paths, reading up on activated carbon substitutes, and figuring out how to pair coffee with chemical neutralizers.  
 
-For the brains, I dusted off my **Arduino Mega 2560** with an I/O expansion shield so it could juggle fans, sensors, and servo-controlled airflow flaps without breaking a sweat.  
+For the brains, I choosed an **Arduino Mega 2560** with an I/O expansion shield so it could juggle fans, sensors, and servo-controlled airflow flaps without breaking a sweat.  
 
 By the evening, I had a full process diagram taped to my wall, a small pile of coffee grounds on my desk (from “testing”), and the first real excitement that this might actually work.  
 
